@@ -1,0 +1,80 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "UbicacionesSensores",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5013852155060445, 43.18524223686446 ]    
+			},
+			"properties" : {
+				"fid" : "1",
+				"Organismo" : "CALIDAD AIRE",
+				"Direccion" : "KALTXANGO",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"codigo_dea" : 878,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5013852155060445,
+				"y" : 43.18524223686446
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.4979334173186643, 43.179509127929926 ]  
+			},
+			"properties" : {
+				"fid" : "13",
+				"Organismo" : "CALIDAD AIRE",
+				"Direccion" : "SAN LORENZO",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.4979334173186643,
+				"y" : 43.179509127929926
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.502543700408849, 43.19190197475772 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Organismo" : "CALIDAD AIRE",
+				"Direccion" : "OKINZURI",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.502543700408849,
+				"y" : 43.19190197475772
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5101033000166915, 43.19047065683799 ]   
+			},
+			"properties" : {
+				"fid" : "14",
+				"Organismo" : "CALIDAD AIRE",
+				"Direccion" : "BETIONDO",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5101033000166915,
+				"y" : 43.19047065683799
+			}
+		}
+	]
+}

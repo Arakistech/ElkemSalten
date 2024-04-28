@@ -1,0 +1,178 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "UbicacionesSensores",
+	"features" : [
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.503819378198201, 43.187443183783365 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",  
+				"Direccion" : "ONGARAI1",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.503819378198201,
+				"y" : 43.187443183783365
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5042495019778035, 43.187695814559525 ]     
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",
+				"Direccion" : "ONGARAI2",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.5042495019778035,
+				"y" : 43.187695814559525
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5045386407629358, 43.18796064019215 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",
+				"Direccion" : "ONGARAI3",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.5045386407629358,
+				"y" : 43.18796064019215
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.504823000372784,  43.18825682538217 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",
+				"Direccion" : "ONGARAI4",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.504823000372784,
+				"y" : 43.18825682538217 
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5023165473644235, 43.18901069096102 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",
+				"Direccion" : "ZERUKOA1",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.5023165473644235,
+				"y" : 43.18901069096102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5029527489963557, 43.18918706328419 ]     
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",
+				"Direccion" : "ZERUKOA2",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.5029527489963557,
+				"y" : 43.18918706328419
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.501650699936485, 43.186522765172654 ]   
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",
+				"Direccion" : "LOBIANO",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.501650699936485,
+				"y" : 43.186522765172654
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.50119763900919, 43.18671107778961 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "RAMPA",
+				"Direccion" : "IPARRAGUIRRE",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.50119763900919,
+				"y" : 43.18671107778961 
+			}
+		},
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5024796453259377, 43.18698595110211 ]   
+			},
+			"properties" : {
+				"fid" : "14",
+				"Elemento" : "RAMPA",
+				"Direccion" : "PLAZA",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.5024796453259377,
+				"y" : 43.18698595110211
+			}
+		}
+	]
+}

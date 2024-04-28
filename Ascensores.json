@@ -1,0 +1,140 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "UbicacionesSensores",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5030476055109365, 43.18944813516051 ]    
+			},
+			"properties" : {
+				"fid" : "1",
+				"Elemento" : "ASCENSOR",
+				"Direccion" : "GOIENKALE2",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 878,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.5030476055109365,
+				"y" : 43.18944813516051
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.506956504435353, 43.18791576697441 ]     
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "ASCENSOR",
+				"Direccion" : "SAN PELAYO1",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "SÍ",
+				"buffer" : 200,
+				"x" : -2.506956504435353,
+				"y" : 43.18791576697441
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5068880187142613, 43.18826784180614 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "ASCENSOR",
+				"Direccion" : "SAN PELAYO2",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5068880187142613,
+				"y" : 43.18826784180614
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.501904244685516, 43.1871524227409 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "ASCENSOR",
+				"Direccion" : "GOIENKALE",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.501904244685516,
+				"y" : 43.1871524227409
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.501478240246266, 43.18691629154143 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "ASCENSOR",
+				"Direccion" : "ZERUKOA",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.501478240246266,
+				"y" : 43.18691629154143
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5052026000556906, 43.186335753403995 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "ASCENSOR",
+				"Direccion" : "CASAS NUEVAS",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5052026000556906,
+				"y" : 43.186335753403995
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5023089859014327, 43.18995800746766 ]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Elemento" : "ASCENSOR",
+				"Direccion" : "ZERUKOA2",
+				"Municipio" : "Ermua",
+				"Estado" : "EN MARCHA",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5023089859014327,
+				"y" : 43.18995800746766
+			}
+		}
+		
+	]
+}

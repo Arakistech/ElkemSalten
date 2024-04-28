@@ -1,0 +1,376 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "UbicacionesSensores",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.972664040399367,57.701310844493456]    
+
+			},
+			"properties" : {
+				"fid" : "1",
+				"Organismo" : "A8",
+				"Direccion" : "CAMERA1",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"codigo_dea" : 878,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.509910704737921,
+				"y" : 43.17460628199463
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ] 
+
+			},
+			"properties" : {
+				"fid" : "13",
+				"Organismo" : "A8",
+				"Direccion" : "CAMERA2",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.533878923859153,
+				"y" : 43.17179731551415
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+ 
+			},
+			"properties" : {
+				"fid" : "13",
+				"Organismo" : "N634",
+				"Direccion" : "CAMERA3",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.4987194179673855,
+				"y" :  43.18107440120108
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456]    
+			},
+			"properties" : {
+				"fid" : "13",
+				"Organismo" : "N634",
+				"Direccion" : "CAMERA4",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.504044973351427,
+				"y" : 43.186141927711304
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456  ]   
+
+			},
+			"properties" : {
+				"fid" : "14",
+				"Organismo" : "BICI MONTAÑA",
+				"Direccion" : "CAMERA5",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.506928088425419,
+				"y" : 43.15902623493715
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456]   
+
+			},
+			"properties" : {
+				"fid" : "15",
+				"Organismo" : "Brasilia",
+				"Direccion" : "CAMERA6",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -48.0855127403145,
+				"y" : -15.67311188152047
+			}
+		},
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "16",
+				"Organismo" : "Ecuador",
+				"Direccion" : "CAMERA7",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -78.35543193629266,
+				"y" : 0.17074198152930364
+			}
+		},
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "16",
+				"Organismo" : "Santiago",
+				"Direccion" : "CAMERA8",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -70.6870524066448,
+				"y" : -33.3805610315159
+			}
+		},
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "17",
+				"Organismo" : "Houston",
+				"Direccion" : "CAMERA9",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -95.37777521602537,
+				"y" : 29.880125769601705
+			}
+		},
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "18",
+				"Organismo" : "Seattle",
+				"Direccion" : "CAMERA10",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -122.35616621055013,
+				"y" : 47.662755369691496
+			}
+		},
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456]   
+
+			},
+			"properties" : {
+				"fid" : "18",
+				"Organismo" : "Seattle",
+				"Direccion" : "CAMERA10",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -74.02335922422296,
+				"y" : 40.8457505122106
+			}
+		},
+
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "18",
+				"Organismo" : "Canada",
+				"Direccion" : "CAMERA11",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" :  -113.05416065912085,
+				"y" : 56.343178457767806
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "18",
+				"Organismo" : "Cape Town",
+				"Direccion" : "CAMERA12",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" :  18.453955912468615, 
+				"y" : -33.858301478926634
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "19",
+				"Organismo" : "Lagos",
+				"Direccion" : "CAMERA13",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" :  18.453955912468615, 
+				"y" : -33.858301478926634
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.972664040399367,57.701310844493456 ]   
+
+			},
+			"properties" : {
+				"fid" : "20",
+				"Organismo" : "Rabat",
+				"Direccion" : "CAMERA14",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" :  -6.833498091920887,
+				"y" : 34.038510797631574
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.972664040399367,57.701310844493456]   
+
+			},
+			"properties" : {
+				"fid" : "21",
+				"Organismo" : "Nairobi",
+				"Direccion" : "CAMERA15",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : 36.794494714961445,
+				"y" : -1.2534941341589558
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.972664040399367,57.701310844493456 ]   
+			},
+			"properties" : {
+				"fid" : "22",
+				"Organismo" : "Cairo",
+				"Direccion" : "CAMERA16",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : 31.229770599345272,
+				"y" : 30.047142198152784
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.972664040399367,57.701310844493456]   
+			},
+			"properties" : {
+				"fid" : "23",
+				"Organismo" : "Mumbai",
+				"Direccion" : "CAMERA17",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : 72.90536299610736, 
+				"y" : 19.10742496842775
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.972664040399367,57.701310844493456]   
+			},
+			"properties" : {
+				"fid" : "24",
+				"Organismo" : "Bangkok",
+				"Direccion" : "CAMERA18",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : 100.48145807664633, 
+				"y" : 13.759913875939162
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [11.972664040399367,57.701310844493456]   
+			},
+			"properties" : {
+				"fid" : "25",
+				"Organismo" : "Shanghai",
+				"Direccion" : "CAMERA19",
+				"codigo_dea" : 0,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : 121.44830414287861, 
+				"y" : 31.268394952156697
+			}
+		}
+
+	]
+}

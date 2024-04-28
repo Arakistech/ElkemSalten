@@ -1,0 +1,301 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "UbicacionesActuales",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5049797467, 43.1876122798 ]
+			},
+			"properties" : {
+				"fid" : "1",
+				"Organismo" : "EROSKI CENTER",
+				"Direccion" : "San Pelayo 6",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 540225.34,
+				"YETRS89" : 4781768.09,
+				"Ubicación" : "LINEA DE CAJAS",
+				"Horario" : "DE LUNES A SABADO DE 9:00 A 21:00",
+				"Núm Serie" : "20014675",
+				"Modelo" : "REANIBEX 200",
+				"codigo_dea" : 878,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5049797467,
+				"y" : 43.1876122803
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5016121705, 43.1860840471 ]
+			},
+			"properties" : {
+				"fid" : "2",
+				"Organismo" : "AYUNTAMIENTO DE ERMUA (Servicios Sociales)",
+				"Direccion" : "Erdikokale 21",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 540500,
+				"YETRS89" : 4781600,
+				"Ubicación" : "JUNTO A LA PUERTA DE ENTRADA",
+				"Horario" : "09:00-21:00",
+				"Núm Serie" : "2017/20041890",
+				"Modelo" : "BEXEN CARDIO REANIBEX",
+				"codigo_dea" : 1791,
+				"EsMunicipa" : "SI",
+				"buffer" : 200,
+				"x" : -2.5016121705,
+				"y" : 43.1860840477
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5021291183, 43.1860109279 ]
+			},
+			"properties" : {
+				"fid" : "3",
+				"Organismo" : "AYUNTAMIENTO DE ERMUA",
+				"Direccion" : "Marqués de Valdespina 1",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 540458.04,
+				"YETRS89" : 4781591.63,
+				"Ubicación" : "PLANTA BAJA, PARTE DERECHA DE LA VENTANILLA DE LA POLICIA MUNICIPAL",
+				"Horario" : "08:00 - 15:00",
+				"Núm Serie" : "2017/20041894",
+				"Modelo" : "BEXEN CARDIO REANIBEX",
+				"codigo_dea" : 1789,
+				"EsMunicipa" : "SI",
+				"buffer" : 200,
+				"x" : -2.5021291183,
+				"y" : 43.1860109285
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5078479943, 43.1895818411 ]
+			},
+			"properties" : {
+				"fid" : "4",
+				"Organismo" : "CESPE S. COOP -COLEGIO SAN PELAYO IKASTETXEA",
+				"Direccion" : "Calle Betiondo S/N.",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 539990.98,
+				"YETRS89" : 4781985.44,
+				"Ubicación" : "EN SECRETARIA, EN EL PASILLO A MANO IZQUIERDA",
+				"Horario" : "8:00-17:00",
+				"Núm Serie" : "20041634",
+				"Modelo" : "REANIBEX 300",
+				"codigo_dea" : 1564,
+				"EsMunicipa" : "NO",
+				"buffer" : 150,
+				"x" : -2.5078479943,
+				"y" : 43.1895818417
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5099269852, 43.1867459779 ]
+			},
+			"properties" : {
+				"fid" : "5",
+				"Organismo" : "UVESCAYA S. L. (BM)",
+				"Direccion" : "Zearkale 37",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 539823.89,
+				"YETRS89" : 4781669.52,
+				"Ubicación" : "JUNTO A OFICINA",
+				"Horario" : "DE LUNES A SABADO DE 9:00 A 22:00",
+				"Núm Serie" : "A16B-07118",
+				"Modelo" : "PHILIPS HEARTSTART HS1",
+				"codigo_dea" : 1513,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5099269852,
+				"y" : 43.1867459785
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.500951664, 43.1849725 ]
+			},
+			"properties" : {
+				"fid" : "6",
+				"Organismo" : "EUSKAL TRENBIDE SAREA",
+				"Direccion" : "Gipuzkoa 1",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 540554.41,
+				"YETRS89" : 4781476.88,
+				"Ubicación" : "JUNTO CANCELADORA INTERIOR",
+				"Horario" : "DE 5:15 A 23:20",
+				"Núm Serie" : "A15K-02739",
+				"Modelo" : "PHILIPS HEARTSTART HS1",
+				"codigo_dea" : 1429,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.500951664,
+				"y" : 43.1849725005
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.507861039, 43.1908838067 ]
+			},
+			"properties" : {
+				"fid" : "9",
+				"Organismo" : "INSTITUTO MUNICIPAL DE DEPORTES DE ERMUA",
+				"Direccion" : "Ongarai",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 539989.07,
+				"YETRS89" : 4782130.02,
+				"Ubicación" : "EN EL PASILLO DE VESTUARIOS",
+				"Horario" : "DE 9:00 A 21:00",
+				"Núm Serie" : "A15G-01519",
+				"Modelo" : "PHILIPS HEARTSTART HS1",
+				"codigo_dea" : 1647,
+				"EsMunicipa" : "SI",
+				"buffer" : 200,
+				"x" : -2.507861039,
+				"y" : 43.1908838072
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5094462739, 43.1911458099 ]
+			},
+			"properties" : {
+				"fid" : "10",
+				"Organismo" : "INSTITUTO MUNICIPAL DE DEPORTES DE ERMUA",
+				"Direccion" : "Ongarai",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 539860.09,
+				"YETRS89" : 4782158.36,
+				"Ubicación" : "EN LA RECEPCION",
+				"Horario" : "L-V 9:30-13:00 Y 16:00-21:30 S 8:30-14:00 Y 16:00-20:00 D 8:30-13:30",
+				"Núm Serie" : "A13L-05011",
+				"Modelo" : "PHILIPS HEARTSTART HS1",
+				"codigo_dea" : 1646,
+				"EsMunicipa" : "SI",
+				"buffer" : 200,
+				"x" : -2.5094462739,
+				"y" : 43.1911458104
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5084214572, 43.187529778 ]
+			},
+			"properties" : {
+				"fid" : "11",
+				"Organismo" : "INSTITUTO MUNICIPAL DE DEPORTES DE ERMUA (Miguel Angel Blanco)",
+				"Direccion" : "Diputación S/N",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 539945.72,
+				"YETRS89" : 4781757.28,
+				"Ubicación" : "RECEPCION, PASANDO TORNOS COLUMNA DE LA DERECHA",
+				"Horario" : "L-V 8:00-22:00 S 9:00-13:00 Y 16:00-20:00 D 9:00-13:00",
+				"Núm Serie" : "A13L-05000",
+				"Modelo" : "PHILIPS HEARTSTART HS1",
+				"codigo_dea" : 1645,
+				"EsMunicipa" : "SI",
+				"buffer" : 200,
+				"x" : -2.5084214572,
+				"y" : 43.1875297785
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5212829739, 43.1861759702 ]
+			},
+			"properties" : {
+				"fid" : "12",
+				"Organismo" : "ESTAMPACIONES METÁLICAS EGUI",
+				"Direccion" : "Carretera Mallabia, Pol. Ind. Urtia, Km1,7",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 538901.45,
+				"YETRS89" : 4781600.88,
+				"Ubicación" : "EN EL DEPARTAMENTO DE CALIDAD",
+				"Horario" : "24 HORAS",
+				"Núm Serie" : "A11A05920",
+				"Modelo" : "PHILIPS HEARTSTART HS1",
+				"codigo_dea" : 1409,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5212829739,
+				"y" : 43.1861759707
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.500867761, 43.1852187537 ]
+			},
+			"properties" : {
+				"fid" : "13",
+				"Organismo" : "EUSKAL TRENBIDE SAREA",
+				"Direccion" : "Gipuzkoa 1",
+				"Municipio" : "Ermua",
+				"Provincia" : "Bizkaia",
+				"XETRS89" : 540561.1,
+				"YETRS89" : 4781504.4,
+				"Ubicación" : "ENTRADA A LA DERECHA JUNTO A CANCELADORAS",
+				"Horario" : "06:00-23:00",
+				"Núm Serie" : "A18K-01636",
+				"Modelo" : "PHILIPS HS1",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.500867761,
+				"y" : 43.1852187543
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.5073466866, 43.1872155705 ]
+			},
+			"properties" : {
+				"fid" : "14",
+				"Organismo" : "SUPERMERCADO DÍA",
+				"XETRS89" : 0,
+				"YETRS89" : 0,
+				"Horario" : "09:00-21:00",
+				"Modelo" : "PHILIPS HS1",
+				"codigo_dea" : 2026,
+				"EsMunicipa" : "NO",
+				"buffer" : 200,
+				"x" : -2.5073466866,
+				"y" : 43.1872155711
+			}
+		}
+	]
+}
