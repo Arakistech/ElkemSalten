@@ -253,7 +253,7 @@
     mapboxgl.accessToken = 'pk.eyJ1IjoiaWFyYWtpc3RhaW4iLCJhIjoiY2t4NHBqNHd1MHRvaTJubnhodmxqdXhjbiJ9.T6OE8lXKHGCObadLCmIoqg';
     const map = new mapboxgl.Map({
         container: 'map',
-        style:'mapbox://styles/iarakistain/cljwj66za021401qyd1oidsd1',
+        style:'mapbox://styles/iarakistain/cll7plfyi00na01qsej35dc0m',
         center:[-38.2, 38.9],
         pitch:13,
         projection:'globe',
@@ -305,10 +305,10 @@
 
     function updateMapStyle(isDarkStyle) {
         if(isDarkStyle) {
-            map.setStyle("mapbox://styles/iarakistain/clkgi2462006201pb6pwe6wm6");
+            map.setStyle("mapbox://styles/iarakistain/cll7plfyi00na01qsej35dc0m");
 
         } else {
-            map.setStyle("mapbox://styles/iarakistain/clkb9pmm6005901qtdyah2mt7");
+            map.setStyle("mapbox://styles/iarakistain/cll7plfyi00na01qsej35dc0m");
         }
 
         if(!!map.getSource('directions')) {
