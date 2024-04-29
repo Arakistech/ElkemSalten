@@ -10,7 +10,7 @@
     </script>
     
     <meta charset="utf-8">
-    <title>Elkem Salten</title>
+    <title>CLUB WORLDMAP</title>
 	
     <meta name="description" content="GeoMapa saludable de Ermua - by Metabertsoa"/>
     <meta name="keywords" content="Izarra, Ermua, threejs"/>
@@ -254,7 +254,7 @@
     const map = new mapboxgl.Map({
         container: 'map',
         style:'mapbox://styles/iarakistain/cljwj66za021401qyd1oidsd1',
-        center:[15.58586, 67.36107],
+        center:[-38.2, 38.9],
         pitch:13,
         projection:'globe',
         zoom: isMobilePhone() ? 0.7: 1.9,
@@ -863,7 +863,8 @@ map.on('load', () => {
             });
 
             map.once('zoomend', () => {
-                map.setPitch(60, {duration: 2000});
+                map.setPitch(52, {duration: 2000});
+				map.setBearing(-71.2, {duration: 1000});
             });
 
             mapMarker.togglePopup();
